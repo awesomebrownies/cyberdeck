@@ -30,3 +30,13 @@ PENDING DIRECTIVES:
 * Central case 3d model construction
   * 0% completion
   * Tool: Onshape
+## May 19: Display troubles
+LOG-002: unknown hours, most of day spent researching on and off
+
+Effective displays land in two areas:
+* Raspberry Pi specific:
+  * Low resolution (1040x600 or 1280x720) touch, sometimes still expensive
+* Non-touch laptop displays
+  * Higher resolution no touch, more power draw
+
+In this case, the choice I went with was a larger screen -- laptop displays -- which have upsides and downsides. One deal in particular stood out to be when finding displays, and it is an ebay listing with high ratings and a IPS 1920x1080 15.6 inch monitor. At only $35 + $15 in shipping, this is by far the best deal I've come across. The downside? Quite high power draw. It's estimated to have 15-25 watts depending on brightness.
