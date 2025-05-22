@@ -16,12 +16,17 @@
 
 ### Other $45
 
-* Display $35
-* Screw kit $10
+* **Display** $35 https://www.ebay.com/itm/295418451396
+* **Screw kit** $10
 * (Battery from separate highway project)
 
 ## Controller
 
 * **JH16 Joystick** x2 $10 https://www.aliexpress.com/i/3256808274885275.html
 * **Joystick Cover** x2
-* **XIAO Microcontroller** $10 https://wiki.seeedstudio.com/Seeeduino-XIAO/
+* **Trigger** x2 $3.50 (10kΩ linear taper / rotary potentiometer + spring) https://www.digikey.com/en/products/detail/tt-electronics-bi/P091S-FC20BR10K/2408860 + https://www.aliexpress.us/item/3256806635462026.html
+* **Switch** x2 $3 (Keyboard switch)
+* **Rotary Encoder** x2 $4
+* **Foam Hand Straps** x2 $5
+* **Capacitive Metal Strip** x4 (aluminum foil should work)
+* **XIAO Microcontroller** x2 $10 https://wiki.seeedstudio.com/Seeeduino-XIAO/
