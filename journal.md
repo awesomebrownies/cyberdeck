@@ -40,3 +40,11 @@ Effective displays land in two areas:
   * Higher resolution no touch, more power draw
 
 In this case, the choice I went with was a larger screen -- laptop displays -- which have upsides and downsides. One deal in particular stood out to be when finding displays, and it is an ebay listing with high ratings and a IPS 1920x1080 15.6 inch monitor. At only $35 + $15 in shipping, this is by far the best deal I've come across. The downside? Quite high power draw. It's estimated to have 15-25 watts depending on brightness.
+
+## May 20: Material Drafting
+
+I've been brainstorming the attachment mechanism between the main body and the controllers. Here's the plan. I'll have a ball bearing rectangle piece rotate to lock into the controller, which will have magnets. This piece will also have 3 wires routed on it. GND, 3.3v line, and a data line. These will be connected using spring loaded contacts to the wires. Since I'll have extra magnets, there's a good chance the end of the rotatable travel mode will have magnets to lock it into, as vice versa in the opposite mode. This day has been mostly just double checking all of the materials, and doing more indepth price checks. It's most likely I'll finish the rest of it tomorrow.
+
+PENDING DIRECTIVES:
+* Material draft, price check
+  * ~90% material draft, ~60% price check
