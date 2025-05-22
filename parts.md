@@ -1,11 +1,10 @@
 ## Main Body
 
-### Computing $55
+### Computing $20
 
 * **Raspberry Pi 5 8gb** (already purchased)
-* **Cooling Fan** $36
-* **6 Piece Heatsink** $7
-* 5v 5a **Power supply** $12
+* **6 Piece Heatsink** $7 https://www.digikey.com/en/products/detail/edatec/ED-PI5CASE-OS/21769633
+* 5v 5a **Power supply** $13 https://www.amazon.com/GeeekPi-Power-Supply-Raspberry-Adapter/dp/B0CQ2DL2RW
 
 ### Hotswap Connectors & Arm Rotation System $19.93
 
