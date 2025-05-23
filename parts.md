@@ -15,7 +15,7 @@
 
 ### Other $60
 
-* **Display** $35 https://www.ebay.com/itm/295418451396
+* **Display** $35 https://www.ebay.com/itm/388256042771
 * **Screw kit** $10
 * **Plastic Spool** (for 3d printing) $15
 * (Battery from separate highway project)
