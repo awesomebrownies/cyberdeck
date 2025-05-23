@@ -9,7 +9,7 @@
 ### Hotswap Connectors & Arm Rotation System $19.93
 
 * **Metal Rods** x2 $4.84 https://www.aliexpress.us/item/3256806550938490.html
-* **Spring loaded contacts** $6 x6 https://www.digikey.com/en/products/detail/preci-dip/0906-2/15815067
+* **Spring loaded contacts** x6 $6 https://www.digikey.com/en/products/detail/preci-dip/0906-2/15815067
 * **Small Magnets** x8 $3.09 https://www.digikey.com/en/products/detail/radial-magnets-inc/9161/15276807
 * **Ball Bearings** x4 $6 https://www.amazon.com/YAMASO-Pcs-608-Ball-Bearings/dp/B0CYYYZRV9
 
