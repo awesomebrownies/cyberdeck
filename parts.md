@@ -20,11 +20,11 @@
 * **Plastic Spool** (for 3d printing) $15
 * (Battery from separate highway project)
 
-## Controller $44.48
+## Controller $50.73
 
 * **JH16 Joystick** x2 $10 https://www.aliexpress.com/i/3256808274885275.html
 * **Joystick Cover** x2 (3d printed)
-* **Trigger** x2 $3.50 (10kΩ linear taper / rotary potentiometer + spring) https://www.digikey.com/en/products/detail/tt-electronics-bi/P091S-FC20BR10K/2408860 + https://www.aliexpress.us/item/3256806635462026.html
+* **Trigger** x2 $5.24 + 4.51 (10kΩ linear taper / rotary potentiometer + spring) https://www.digikey.com/en/products/detail/tt-electronics-bi/P091S-FC20BR10K/2408860 + https://www.aliexpress.us/item/3256806635462026.html
 * **Switch** x2 $3 (Keyboard switch)
 * **Rotary Encoder** x2 $4 https://www.digikey.com.br/en/products/detail/alps-alpine/EC12E24204A8/18109108
 * **Capacitive Metal Strip** x4 (aluminum foil should work)
