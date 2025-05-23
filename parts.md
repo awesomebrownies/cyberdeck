@@ -29,7 +29,9 @@
 * **Rotary Encoder** x2 $4 https://www.digikey.com.br/en/products/detail/alps-alpine/EC12E24204A8/18109108
 * **Capacitive Metal Strip** x4 (aluminum foil should work)
 * **XIAO Microcontroller** x2 $10 https://wiki.seeedstudio.com/Seeeduino-XIAO/
-Knuckle Straps
+
+### Knuckle Straps $13.98
+
 * **Cloth** x2 $5
 * **Spring loaded cord fastener** x2 $4.98 https://www.amazon.com/Plastic-Spring-Toggle-Stoppers-Multi-colour/dp/B01FH9DYU6
 * **Paracord** $4
