@@ -42,9 +42,24 @@ Effective displays land in two areas:
 In this case, the choice I went with was a larger screen -- laptop displays -- which have upsides and downsides. One deal in particular stood out to be when finding displays, and it is an ebay listing with high ratings and a IPS 1920x1080 15.6 inch monitor. At only $35 + $15 in shipping, this is by far the best deal I've come across. The downside? Quite high power draw. It's estimated to have 15-25 watts depending on brightness.
 
 ## May 20: Material Drafting
+LOG-003: 2 hours
 
 I've been brainstorming the attachment mechanism between the main body and the controllers. Here's the plan. I'll have a ball bearing rectangle piece rotate to lock into the controller, which will have magnets. This piece will also have 3 wires routed on it. GND, 3.3v line, and a data line. These will be connected using spring loaded contacts to the wires. Since I'll have extra magnets, there's a good chance the end of the rotatable travel mode will have magnets to lock it into, as vice versa in the opposite mode. This day has been mostly just double checking all of the materials, and doing more indepth price checks. It's most likely I'll finish the rest of it tomorrow.
 
 PENDING DIRECTIVES:
 * Material draft, price check
   * ~90% material draft, ~60% price check
+
+## May 22: Project Material Guidelines Finished
+LOG-004: 2 hours
+
+In the process of drafting the controller materials for the hand strap, I realized I had a unique design opportunity for my cyberdeck. The controllers will be designed lower than the main body for a couple of reasons.
+1. Better airflow: If a fan is ever added, then airflow can move through the bottom.
+2. Stand offset: Keeping the controllers back allow them to be used as a stand for propping the cyberdeck on a surface upright.
+
+And finally my most recent idea
+
+3. The gap inbetween the controller and main body can be used to mount the cyberdeck on the arm. Essentially, the controllers can be armstraps as well.
+
+COMPLETED DIRECTIVE
+* Material draft 100%, price check 100%
