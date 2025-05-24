@@ -15,6 +15,7 @@
 
 ### Other $75
 
+* **Toggle Switch** x4 (Already own)
 * **Display** $50 https://www.ebay.com/itm/388256042771
 * **Screw kit** $10
 * **Plastic Spool** (for 3d printing) $15
@@ -24,8 +25,11 @@
 
 * **JH16 Joystick** x2 $10 https://www.aliexpress.com/i/3256808274885275.html
 * **Joystick Cover** x2 (3d printed)
-* **Trigger** x2 $5.24 + 4.51 (10kΩ linear taper / rotary potentiometer + spring) https://www.digikey.com/en/products/detail/tt-electronics-bi/P091S-FC20BR10K/2408860 + https://www.aliexpress.us/item/3256806635462026.html
-* **Switch** x2 $3 (Keyboard switch)
+* **Analog Hall Effect Trigger** x2
+  * **Hall Effect Sensor** x2 $2.52 https://www.digikey.com/en/products/detail/allegro-microsystems/A1308KUA-1-T/6821585
+  * **Magnet** x2 $0.76 https://www.digikey.com/en/products/detail/radial-magnets-inc/8193/555328
+  * **Spring** x2 $5.21 https://www.aliexpress.us/item/3256808595228122.html
+* **Switch** x2 (Already own)
 * **Rotary Encoder** x2 $4 https://www.digikey.com.br/en/products/detail/alps-alpine/EC12E24204A8/18109108
 * **Capacitive Metal Strip** x4 (aluminum foil should work)
 * **XIAO Microcontroller** x2 $10 https://wiki.seeedstudio.com/Seeeduino-XIAO/
