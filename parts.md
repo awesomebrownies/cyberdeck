@@ -13,9 +13,9 @@
 * **Small Magnets** x8 $3.09 https://www.digikey.com/en/products/detail/radial-magnets-inc/9161/15276807
 * **Ball Bearings** x4 $6 https://www.amazon.com/YAMASO-Pcs-608-Ball-Bearings/dp/B0CYYYZRV9
 
-### Other $60
+### Other $75
 
-* **Display** $35 https://www.ebay.com/itm/388256042771
+* **Display** $50 https://www.ebay.com/itm/388256042771
 * **Screw kit** $10
 * **Plastic Spool** (for 3d printing) $15
 * (Battery from separate highway project)
