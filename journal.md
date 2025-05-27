@@ -19,10 +19,6 @@ LOG-001: ~3 hours
 </table>
 
 *Project outline described above*
-- Split project into 3 sections
-  - Battery Module will be a separate project
-  - Central Case
-  - Controllers
 
 ### Project Step Oversight
 
@@ -43,7 +39,14 @@ Effective displays land in two areas:
 * Non-touch laptop displays
   * Higher resolution no touch, more power draw
 
-In this case, the choice I went with was a larger screen -- laptop displays -- which have upsides and downsides. One deal in particular stood out to be when finding displays, and it is an ebay listing with high ratings and a IPS 1920x1080 15.6 inch monitor. At only $35 + $15 in shipping, this is by far the best deal I've come across. The downside? Quite high power draw. It's estimated to have 15-25 watts depending on brightness.
+In this case, the choice I went with a 10.5 inch touchscreen display at the cost of ~$50 on ebay. It's 1920x1280, which is perfect for programming, given the extra vertical height.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/42edd385-3e40-478b-9ca4-3b0dbc61e0dc" width=300>
+    </td>
+  </tr>
+</table>
 
 ## May 20: Material Drafting
 
@@ -78,7 +81,7 @@ Coming back from a hardware hackathon, I have a couple of extra ideas.
 
 * Stenography typing at it's most basic level is typing chords. The left hand deals with beginning consonants, the thumbs vowels, and right hand ending consonants. To make it work, I would use the joysticks for the different thumb keys. This could be surprisingly effective, since the nature of capacitive keys allow predictive text. With it, I'm also considering adding a fifth capacitive sensor above the trigger module to allow for more streamlined typing
 
-(Inspired from this post https://community.element14.com/products/raspberry-pi/f/forum/8653/case-material-to-protect-raspberry-pi-3b-and-zero-in-hostile-environment)
+*Inspired from this post https://community.element14.com/products/raspberry-pi/f/forum/8653/case-material-to-protect-raspberry-pi-3b-and-zero-in-hostile-environment*
 
 * Shock cages are not very common, but the nature of the cyberdeck revolves around portability. I'm designing it to survive drops that hit the handles, screen side, or back side of the deck. There are two parts to the shock absorption
   * Springs: Designed for small drops <0.75m, I can calculate the stiffness required by doing some physics. The potential energy of the shock cage is calculated using weight and height, then I equal that to the elastic potential energy of the spring x4.
@@ -87,10 +90,7 @@ Coming back from a hardware hackathon, I have a couple of extra ideas.
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/e299b58b-4ce4-4daa-9f8c-8522c6b3cbf7" width=300>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/e299b58b-4ce4-4daa-9f8c-8522c6b3cbf7" width=300>
+      <img src="https://github.com/user-attachments/assets/cbabef7b-76c7-4f8b-883a-6df3003a37fc" width=300>
     </td>
   </tr>
 </table>
