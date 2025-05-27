@@ -13,7 +13,7 @@ A portable cyberdeck designed around accessories and working on the move.
   * Foldable controllers on both sides for compact travel
   * When deployed: Space for a cooling fan, lowered controllers used as a stand, & space between controller & main body to strap to arm for carrying
 * **Picatinny Rails**:
-  * Used to attach custom gadgets to the device. I will have a gun sling on it so it can go around my neck while on the move.
+  * Used to attach custom gadgets to the device. Ex: Gun sling, or 3d printed mount
 * **Physical Toggle Switches**
   * Toggle power & battery, software modes
 * **Debugging Station**
