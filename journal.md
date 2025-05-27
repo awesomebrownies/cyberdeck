@@ -56,6 +56,7 @@ PENDING DIRECTIVES:
   * ~90% material draft, ~60% price check
 
 ## May 22: Project Material Guidelines Finished
+
 LOG-004: 2 hours
 
 In the process of drafting the controller materials for the hand strap, I realized I had a unique design opportunity for my cyberdeck. The controllers will be designed lower than the main body for a couple of reasons.
@@ -71,6 +72,8 @@ COMPLETED DIRECTIVE
 
 ## May 26: Ideas! Stenography, Shock Cages, and a beginning to the modeling
 
+LOG-005: 3 hours researching shock cages, 2 hours learning onshape modeling
+
 Coming back from a hardware hackathon, I have a couple of extra ideas.
 
 * Stenography typing at it's most basic level is typing chords. The left hand deals with beginning consonants, the thumbs vowels, and right hand ending consonants. To make it work, I would use the joysticks for the different thumb keys. This could be surprisingly effective, since the nature of capacitive keys allow predictive text. With it, I'm also considering adding a fifth capacitive sensor above the trigger module to allow for more streamlined typing
@@ -80,6 +83,18 @@ Coming back from a hardware hackathon, I have a couple of extra ideas.
 * Shock cages are not very common, but the nature of the cyberdeck revolves around portability. I'm designing it to survive drops that hit the handles, screen side, or back side of the deck. There are two parts to the shock absorption
   * Springs: Designed for small drops <0.75m, I can calculate the stiffness required by doing some physics. The potential energy of the shock cage is calculated using weight and height, then I equal that to the elastic potential energy of the spring x4.
   * Rubber Grommets: If a fall is greater than 0.75m, then the grommets will somewhat dampen the impact, if much less effectively.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/e299b58b-4ce4-4daa-9f8c-8522c6b3cbf7" width=300>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/e299b58b-4ce4-4daa-9f8c-8522c6b3cbf7" width=300>
+    </td>
+  </tr>
+</table>
+
  
 
 
