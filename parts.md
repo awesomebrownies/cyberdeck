@@ -13,6 +13,11 @@
 * **Small Magnets** x8 $3.09 https://www.digikey.com/en/products/detail/radial-magnets-inc/9161/15276807
 * **Ball Bearings** x4 $6 https://www.amazon.com/YAMASO-Pcs-608-Ball-Bearings/dp/B0CYYYZRV9
 
+### Shock Cage $18.98
+
+* **Springs x16** $8.99 https://www.amazon.com/Dianrui-Compression-Assortment-Mechanical-K-P-051-300/dp/B0BVTDP29W/143-1548753-7471335
+* **Grommets** x16 $9.99 https://www.amazon.com/200PCS-Grommet-Electrical-Firewall-Assortment/dp/B08CD9KGHN
+
 ### Other $74.44
 
 * **Toggle Switch** x4 (Already own)
