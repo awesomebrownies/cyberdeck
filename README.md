@@ -3,9 +3,18 @@
 A portable cyberdeck designed around accessories and working on the move.
 
 ## Key features
-* **Controllers on both sides**: Joystick: Mouse/Scrolling, Scroll Wheel: Zoom/Custom, Trigger: Left/Right Click, Button: Extra, 4x Capacitive Sensors: Typing
-  * Foldable controllers on both sides for compact travel & when deployed, (space for cooling fan, since controllers go lower than the main body)
-* **Typing with hand tracking**! Control hand will lift fingers to change mode (ex: [index raise row, middle lower, both number row], ring SHIFT, pinky Thumb Row)
-* **Picatinny Rails**: Used to attach custom gadgets to the device. I will have a gun sling on it so it can go around my neck while on the move.
-* **Physical Toggle Switches** on right side: Power, & custom software modes
-* **Debugging Station**: Since I'm using a RPi 5 8gb, I can access pins to test out electronic parts on the fly!
+* **Controllers**
+  * 5x Capacitive Sensors: Predictive Steganography & normal typing switch
+  * Joystick & Scroll Wheel: Moving cursor, scrolling, zooming & typing
+  * Trigger + Button: Clicks & keybinds
+* **Shock Cage**
+  * Springs can withstand <0.75m drop, rubber grommets for additional acceleration damping.
+* **Travel Mode**
+  * Foldable controllers on both sides for compact travel
+  * When deployed: Space for a cooling fan, lowered controllers used as a stand, & space between controller & main body to strap to arm for carrying
+* **Picatinny Rails**:
+  * Used to attach custom gadgets to the device. I will have a gun sling on it so it can go around my neck while on the move.
+* **Physical Toggle Switches**
+  * Toggle power & battery, software modes
+* **Debugging Station**
+  * Using a RPi 5 8gb, access pins to test out electronic parts on the fly!
