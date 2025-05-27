@@ -26,8 +26,7 @@ PENDING DIRECTIVES:
 * Material draft, price check
   * ~35% material draft, ~20% price check
 * Central case 3d model construction
-  * 0% completion
-  * Tool: Onshape
+  * 0% completion, Tool: Onshape
  
 ## May 19: Display troubles
 
@@ -36,7 +35,7 @@ LOG-002: unknown hours, most of day spent researching on and off
 Effective displays land in two areas:
 * Raspberry Pi specific:
   * Low resolution (1040x600 or 1280x720) touch, sometimes still expensive
-* Non-touch laptop displays
+* (sometimes) Non-touch laptop displays
   * Higher resolution no touch, more power draw
 
 In this case, the choice I went with a 10.5 inch touchscreen display at the cost of ~$50 on ebay. It's 1920x1280, which is perfect for programming, given the extra vertical height.
@@ -72,6 +71,14 @@ And finally my most recent idea
 
 COMPLETED DIRECTIVE
 * Material draft 100%, price check 100%
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/96420d29-c57f-4cc2-a689-0522aa2d3ed2" width=500>
+    </td>
+  </tr>
+</table>
 
 ## May 26: Ideas! Stenography, Shock Cages, and a beginning to the modeling
 
