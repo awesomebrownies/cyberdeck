@@ -82,7 +82,7 @@ COMPLETED DIRECTIVE
 
 ## May 26: Ideas! Stenography, Shock Cages, and a beginning to the modeling
 
-LOG-005: 3 hours researching shock cages, 2 hours learning onshape modeling
+LOG-005: 3 hours researching shock cages, 3 hours learning onshape modeling
 
 Coming back from a hardware hackathon, I have a couple of extra ideas.
 
@@ -102,7 +102,18 @@ Coming back from a hardware hackathon, I have a couple of extra ideas.
   </tr>
 </table>
 
- 
+## May 27: Familiarization with Onshape
+
+LOG-006: 
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/997d21d1-c9eb-4ca1-8f43-7c41aa0f24b3" width=500>
+    </td>
+  </tr>
+</table>
 
 
  
