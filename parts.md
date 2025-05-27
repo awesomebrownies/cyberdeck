@@ -6,7 +6,7 @@
 * **Top+Bottom Passive Heatsink** $7 https://www.digikey.com/en/products/detail/edatec/ED-PI5CASE-OS/21769633
 * 5v 5a **Power supply** $13 https://www.amazon.com/GeeekPi-Power-Supply-Raspberry-Adapter/dp/B0CQ2DL2RW
 
-### Hotswap Connectors & Arm Rotation System $19.93
+### Hotswap Connectors & Controller Folding System $19.93
 
 * **Metal Rods** x2 $4.84 https://www.aliexpress.us/item/3256806550938490.html
 * **Spring loaded contacts** x6 $6 https://www.digikey.com/en/products/detail/preci-dip/0906-2/15815067
