@@ -106,6 +106,7 @@ Coming back from a hardware hackathon, I have a couple of extra ideas.
 
 LOG-006: 
 
+I've been modeling the case to work with the eyoyo 10.5 inch touchscreen display. The specs I've found online to help me are: 232.918mm x 165.1mm x 7.874mm. I'll need to mount it using a VESA mount blueprint from the back.
 
 <table>
   <tr>
