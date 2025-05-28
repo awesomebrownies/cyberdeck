@@ -116,5 +116,8 @@ I've been modeling the case to work with the eyoyo 10.5 inch touchscreen display
   </tr>
 </table>
 
+## May 28: Deck Main Body: Picatinny rails, heatset inserts, & sizing
 
- 
+LOG-007: 5 hours
+
+I've created the walls with another sketch, and have done a bit of tweaking to fit the M2 sized holes for the heatset inserts. The roadtrip has been causing quite a bit of internet trouble, meaning the rate at which I can work is heavily affected. In other news, I've created the picatinny rails. This uses specific dimensioning from a sketch and I've created it with appropriate constraints if ever needed to be further modified. The rails are on a feature pattern which made it possible to easily modify the length for both sides.
