@@ -104,9 +104,9 @@ Coming back from a hardware hackathon, I have a couple of extra ideas.
 
 ## May 27: Familiarization with Onshape
 
-LOG-006: 
+LOG-006: 2 hours
 
-I've been modeling the case to work with the eyoyo 10.5 inch touchscreen display. The specs I've found online to help me are: 232.918mm x 165.1mm x 7.874mm. I'll need to mount it using a VESA mount blueprint from the back.
+I've been modeling the case to work with the eyoyo 10.5 inch touchscreen display. The specs I've found online to help me are: 232.918mm x 165.1mm x 7.874mm. I'll need to mount it using a VESA mount blueprint from the back. Since I've never worked in onshape, I've been going through the tutorial to learn the basics.
 
 <table>
   <tr>
@@ -116,8 +116,22 @@ I've been modeling the case to work with the eyoyo 10.5 inch touchscreen display
   </tr>
 </table>
 
-## May 28: Deck Main Body: Picatinny rails, heatset inserts, & sizing
+## May 28: Deck Main Body: Heatset inserts & sizing
 
 LOG-007: 5 hours
 
-I've created the walls with another sketch, and have done a bit of tweaking to fit the M2 sized holes for the heatset inserts. The roadtrip has been causing quite a bit of internet trouble, meaning the rate at which I can work is heavily affected. In other news, I've created the picatinny rails. This uses specific dimensioning from a sketch and I've created it with appropriate constraints if ever needed to be further modified. The rails are on a feature pattern which made it possible to easily modify the length for both sides.
+I've created the walls with another sketch, and have done a bit of tweaking to fit the M2 sized holes for the heatset inserts. The roadtrip has been causing quite a bit of internet trouble, meaning the rate at which I can work is heavily affected. 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/51115546-f951-484e-b9f3-6431875627d5" width=500>
+    </td>
+  </tr>
+</table>
+
+## May 29: Picatinny Rails, bottom plate & port blocks
+
+LOG-008: 
+
+I've created the picatinny rails. This uses specific dimensioning from a sketch and I've created it with appropriate constraints if ever needed to be further modified. The rails are on a feature pattern which made it possible to easily modify the length for both sides, with a separated part allowing me to mirror it.
