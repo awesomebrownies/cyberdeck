@@ -1,3 +1,10 @@
+---
+title: "Cyberdeck"
+author: "Evan Brown"
+description: "Deck Featuring: Controllers (steganography), shock cage, folding travel mode, and picatinny rails"
+created_at: "2025-05-18"
+---
+
 # Stored Journal Logs
 
 All project work is logged within the journal. Minimal changes may stretch multiple days for one log.
