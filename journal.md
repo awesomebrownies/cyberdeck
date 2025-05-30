@@ -30,7 +30,7 @@ PENDING DIRECTIVES:
  
 ## May 19: Display troubles
 
-LOG-002: unknown hours, most of day spent researching on and off
+LOG-002: 2 hours
 
 Effective displays land in two areas:
 * Raspberry Pi specific:
@@ -104,7 +104,7 @@ Coming back from a hardware hackathon, I have a couple of extra ideas.
 
 ## May 27: Familiarization with Onshape
 
-LOG-006: 2 hours
+LOG-006: 2 hours learning onshape & modeling
 
 I've been modeling the case to work with the eyoyo 10.5 inch touchscreen display. The specs I've found online to help me are: 232.918mm x 165.1mm x 7.874mm. I'll need to mount it using a VESA mount blueprint from the back. Since I've never worked in onshape, I've been going through the tutorial to learn the basics.
 
@@ -118,9 +118,9 @@ I've been modeling the case to work with the eyoyo 10.5 inch touchscreen display
 
 ## May 28: Deck Main Body: Heatset inserts & sizing
 
-LOG-007: 5 hours
+LOG-007: 5 hours modeling
 
-I've created the walls with another sketch, and have done a bit of tweaking to fit the M2 sized holes for the heatset inserts. The roadtrip has been causing quite a bit of internet trouble, meaning the rate at which I can work is heavily affected. 
+I've created the walls with another sketch, and have done a bit of tweaking to fit the M2 sized holes for the heatset inserts. The roadtrip has been causing quite a bit of internet trouble, meaning the rate at which I can work is heavily affected. I've also started on the footprint for the picatinny rails.
 
 <table>
   <tr>
@@ -132,6 +132,13 @@ I've created the walls with another sketch, and have done a bit of tweaking to f
 
 ## May 29: Picatinny Rails, bottom plate & port blocks
 
-LOG-008: 
+LOG-008: 11 hours modeling
 
-I've created the picatinny rails. This uses specific dimensioning from a sketch and I've created it with appropriate constraints if ever needed to be further modified. The rails are on a feature pattern which made it possible to easily modify the length for both sides, with a separated part allowing me to mirror it.
+I've finished creating the picatinny rails. This uses specific dimensioning from a sketch and I've created it with appropriate constraints if ever needed to be further modified. The rails are on a feature pattern which made it possible to easily modify the length for both sides, with a separated part allowing me to mirror it. Each of the parts I'm adding has been measured (RPi 5, toggle switches) to the correct length. I'll have 5 toggle switches on the right side, and the RPi ports on the left side. A big challenge was figuring out I was going to create a hinge for the rotation mechanism. I spent around two hours researching how to do this. My original idea was to use a bicycle/skateboard bearing, but it wasn't the right fit. Rather, just sliding a metal rod through rings slotted together kept everything secure. When I want to move it, I'll slide the rod forward which unlocks the hinges to move.
+
+
+![Screenshot from 2025-05-29 15-47-14](https://github.com/user-attachments/assets/4b240ae1-c8cb-45c5-80eb-2998f9417e02)
+
+![Screenshot from 2025-05-29 21-37-49](https://github.com/user-attachments/assets/bc3c0af6-9e24-475d-a35e-fb07bcd40677)
+
+![Screenshot from 2025-05-29 16-16-54](https://github.com/user-attachments/assets/b84177e9-6e9a-4cd2-b760-8a059dd36538)
