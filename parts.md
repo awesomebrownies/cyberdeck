@@ -14,10 +14,10 @@
 
 ### Shock Cage $18.98
 
-* **Springs x16** $8.99 https://www.amazon.com/Dianrui-Compression-Assortment-Mechanical-K-P-051-300/dp/B0BVTDP29W/143-1548753-7471335
+* **Springs** x16 $8.99 https://www.amazon.com/Dianrui-Compression-Assortment-Mechanical-K-P-051-300/dp/B0BVTDP29W/143-1548753-7471335
 * **Grommets** x16 $9.99 https://www.amazon.com/200PCS-Grommet-Electrical-Firewall-Assortment/dp/B08CD9KGHN
 
-## Mesh Arm Mount $14.79
+### Mesh Arm Mount $14.79
 
 * **Nylon Ballistic Mesh** $14.79 https://www.amazon.com/Heavy-Foliage-Green-Ballistic-Nylon/dp/B06Y3QK95Y
 
