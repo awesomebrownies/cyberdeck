@@ -21,11 +21,11 @@
 
 * **Nylon Ballistic Mesh** $14.79 https://www.amazon.com/Heavy-Foliage-Green-Ballistic-Nylon/dp/B06Y3QK95Y
 
-### Other $79.63
+### Other $84.38
 
 * **Toggle Switch** x4 (Already own)
 * **Display** $50 https://www.ebay.com/itm/388256042771
-* **Heat Set Inserts** x12 $2.64 https://www.digikey.com/en/products/detail/tri-star-industries-inc/M20X157C/13535373
+* **Heat Set Inserts** x50 $7.39 https://www.digikey.com/en/products/detail/tri-star-industries-inc/M20X157C/13535373
 * **M2 Screws** $12.99 https://www.amazon.com/DYWISHKEY-Pieces-Stainless-Phillips-Screws/dp/B07W5J4WC9
 * **Plastic Spool** (for 3d printing) $14 https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Printers/dp/B0D421Q2Q2
 * (Battery from separate highway project)
