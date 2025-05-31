@@ -1,7 +1,7 @@
 ---
 title: "Cyberdeck"
 author: "Evan Brown"
-description: "Deck Featuring: Controllers (steganography), shock cage, folding travel mode, and picatinny rails"
+description: "Deck Featuring: Controllers (stenography), shock cage, folding travel mode, and picatinny rails"
 created_at: "2025-05-18"
 ---
 
