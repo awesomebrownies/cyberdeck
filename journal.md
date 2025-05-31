@@ -154,7 +154,7 @@ I've finished creating the picatinny rails. This uses specific dimensioning from
 
 LOG-09: 8 hours modeling
 
-I spent a lot of time on another idea I had. Since the cyberdeck's main theme is portability, I want to give ample opportunity to different methods of traveling. To make traveling with it arm mounted, I decided to layer a mesh on the bottom through the center. This allows the arm to sink into the deck, which has space since the shock cage springs will not be compressed. I've researched some material options and so far the best option is ballistic nylon mesh. I'm going to layer it between two pieces of plastic and secure it with a hex nut.
+I spent a lot of time on another idea I had. Since the cyberdeck's main theme is portability, I want to give ample opportunity to different methods of traveling. To make traveling with it arm mounted, I decided to layer a mesh on the bottom through the center. This allows the arm to sink into the deck, which has space since the shock cage springs will not be compressed. I've researched some material options and so far the best option is ballistic nylon mesh. I'm going to layer it between two pieces of plastic and secure it with a hex nut. In addition I've been tweaking the hinge design, and I've expanded it significantly to support the weight, while also adding a circular touch to make it look nicer.
 
 ![Screenshot from 2025-05-30 15-15-37](https://github.com/user-attachments/assets/83f83648-d1cd-4583-9230-d6f1d2c63635)
 
