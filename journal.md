@@ -150,11 +150,19 @@ I've finished creating the picatinny rails. This uses specific dimensioning from
 
 ![Screenshot from 2025-05-29 16-16-54](https://github.com/user-attachments/assets/b84177e9-6e9a-4cd2-b760-8a059dd36538)
 
-## May 30: 
+## May 30: Mesh Arm Mount
 
 LOG-09: 8 hours modeling
 
 I spent a lot of time on another idea I had. Since the cyberdeck's main theme is portability, I want to give ample opportunity to different methods of traveling. To make traveling with it arm mounted, I decided to layer a mesh on the bottom through the center. This allows the arm to sink into the deck, which has space since the shock cage springs will not be compressed. I've researched some material options and so far the best option is ballistic nylon mesh. I'm going to layer it between two pieces of plastic and secure it with a hex nut. In addition I've been tweaking the hinge design, and I've expanded it significantly to support the weight, while also adding a circular touch to make it look nicer.
 
 ![Screenshot from 2025-05-30 15-15-37](https://github.com/user-attachments/assets/83f83648-d1cd-4583-9230-d6f1d2c63635)
+
+## May 31: Finished Mesh Arm Mount + Progress on pivot arms
+
+Log-10: 3 hours modeling
+
+I've been struggling a lot with adjustments of all sorts of things. This has been a learning experience on how to properly create constraints to rely only on base structures in the proper format. I've completed the bottom parts to secure the mesh layer, meaning all I need to focus on from now on are the arm mechanisms, and finally the controller.
+
+![Screenshot from 2025-05-31 21-03-16](https://github.com/user-attachments/assets/862ebf15-d463-4d33-bee8-aa271468c1d0)
 
