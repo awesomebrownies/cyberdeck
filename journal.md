@@ -166,3 +166,13 @@ I've been struggling a lot with adjustments of all sorts of things. This has bee
 
 ![Screenshot from 2025-05-31 21-03-16](https://github.com/user-attachments/assets/862ebf15-d463-4d33-bee8-aa271468c1d0)
 
+## June 1: Pivot Connection
+
+Log-11: 3 hours modeling
+
+I created the connection piece for the pivot point from the main body base. It was difficult to create the necessary curves as I kept getting errors. Eventually I created two Fillets separate for the top and bottom, and while it isn't flush, it worked.
+
+![Screenshot from 2025-06-01 08-47-47](https://github.com/user-attachments/assets/494cacf6-02ed-482e-af17-6c5dc29fdc85)
+
+![Screenshot from 2025-06-02 06-16-28](https://github.com/user-attachments/assets/9400f09e-6202-4b84-b3ea-99a9480b7db9)
+
