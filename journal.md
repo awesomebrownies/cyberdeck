@@ -170,7 +170,7 @@ I've been struggling a lot with adjustments of all sorts of things. This has bee
 
 Log-11: 3 hours modeling
 
-I created the connection piece for the pivot point from the main body base. It was difficult to create the necessary curves as I kept getting errors. Eventually I created two Fillets separate for the top and bottom, and while it isn't flush, it worked.
+I created the connection piece for the pivot point from the main body base. It was difficult to create the necessary curves as I kept getting errors. Eventually I created two Fillets separate for the top and bottom, and while it isn't flush, it worked. I also created the extra sandwich layer
 
 ![Screenshot from 2025-06-01 08-47-47](https://github.com/user-attachments/assets/494cacf6-02ed-482e-af17-6c5dc29fdc85)
 
