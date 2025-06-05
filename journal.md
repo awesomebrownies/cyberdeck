@@ -176,3 +176,11 @@ I created the connection piece for the pivot point from the main body base. It w
 
 ![Screenshot from 2025-06-02 06-16-28](https://github.com/user-attachments/assets/9400f09e-6202-4b84-b3ea-99a9480b7db9)
 
+## June 4: First Main Body Print
+
+Log-12: 1 hour fine tuning
+
+I just got one of my first prints back. This will help me immensely with finishing up the body as I'll have something physical to work with and think through the design better. I've noticed that the ports for the toggle switch are a bit too big, and so I've trimmed those down. Other than that, probably just in the next version make sure to include spring mounts.
+
+![20250604_203743](https://github.com/user-attachments/assets/f2df62e4-ae39-4cd8-b4b8-ecab32ec2dc4)
+
