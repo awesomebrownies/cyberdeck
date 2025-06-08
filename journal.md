@@ -184,3 +184,11 @@ I just got one of my first prints back. This will help me immensely with finishi
 
 ![20250604_203743](https://github.com/user-attachments/assets/f2df62e4-ae39-4cd8-b4b8-ecab32ec2dc4)
 
+## June 8: Magnetic Arm Mounts
+
+Log-13: 2 hours modeling
+
+The first iteration design for the arm mounts are finished! I've included a slot for the magnet to slide into for securing in position. My plan to unlock it will be putting torque on the mechanism through the outside wires I will place to contact the spring loaded contacts. The next step is to model the controllers, and then finally the raspberry pi 5 mount and spring system. After that, I'll start working on the controller PCB & pin layout for the entire contraption.
+
+![Screenshot from 2025-06-08 13-25-34](https://github.com/user-attachments/assets/d279d785-1739-48a5-b9c7-857ba87fd154)
+
