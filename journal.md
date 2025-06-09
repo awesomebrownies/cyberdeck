@@ -192,3 +192,8 @@ The first iteration design for the arm mounts are finished! I've included a slot
 
 ![Screenshot from 2025-06-08 13-25-34](https://github.com/user-attachments/assets/d279d785-1739-48a5-b9c7-857ba87fd154)
 
+Log-14: 6 hours modeling
+
+A lot of time was spent iterating over multiple versions of the controller. Throughout the process, I encountered many errors when using the fillet tool. I've learned from this experience that creating differentiable geometry is key to allowing the fillet tool to propogate fully. I landed on a certain design with a fillet used on most of the body with a chamfer on the edge. The expanded part of the controller that will host joysticks and buttons gradually curves further, rather than immediately setting an arc. The controller is at an angle, which was difficult to achieve, requiring two sketches. This allows the thumb to rest comfortably on the joystick. I'll need create a separate design for the back connection of the joystick due to its tilted nature.
+
+![Screenshot from 2025-06-08 20-55-24](https://github.com/user-attachments/assets/13b85dac-f6c6-4aa7-9d4e-989b70688519)
