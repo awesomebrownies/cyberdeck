@@ -197,3 +197,17 @@ Log-14: 6 hours modeling
 A lot of time was spent iterating over multiple versions of the controller. Throughout the process, I encountered many errors when using the fillet tool. I've learned from this experience that creating differentiable geometry is key to allowing the fillet tool to propogate fully. I landed on a certain design with a fillet used on most of the body with a chamfer on the edge. The expanded part of the controller that will host joysticks and buttons gradually curves further, rather than immediately setting an arc. The controller is at an angle, which was difficult to achieve, requiring two sketches. This allows the thumb to rest comfortably on the joystick. I'll need create a separate design for the back connection of the joystick due to its tilted nature.
 
 ![Screenshot from 2025-06-08 20-55-24](https://github.com/user-attachments/assets/13b85dac-f6c6-4aa7-9d4e-989b70688519)
+
+## June 9: Redesigned Controller & Pivot Controller Mount Progress
+
+Log-15: 11 hours modeling
+
+I redesigned the controller again. It wasn't feeling quite right, which I found more impactful when the new design emerged with a much more usable joystick & button area at the top. Of course, the struggles don't end there. I had to learn the technique for creating a multi-directional plane on onshape, rather than a single axis one. After splitting it, the next challenge was hollowing them out. The bottom part of the joystick was easy, and it worked first try. However, when I attempted to hollow out the top part of the controller, I kept getting errors. Funnily enough, the solution is nonsensicle. Selecting a side plane next to where the error is did nothing extra, but still removed the error. 
+
+With that out of the way, my next step was creating a connection between the two pieces. My original plan was to have two screws on the bottom. This didn't work out however, since the holes were too deep and the design becoming too complicated. I instead settled on sideways screws by expanding up and using a chamfer to tidy it up.
+
+At this point I hit a bit of a mental roadblock. I didn't know where to begin with creating the mount piece that allows the pivot to slot into the controller. Eventually, I just had to start trying sketches, which helped remove the mental block. This leads me to my most current progress for today! I've shown it below.
+
+![Screenshot from 2025-06-09 20-54-37](https://github.com/user-attachments/assets/500114ba-59b0-402c-95f4-b54469468a4e)
+
+
