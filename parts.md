@@ -6,10 +6,10 @@
 * **Top+Bottom Passive Heatsink** $7 https://www.digikey.com/en/products/detail/edatec/ED-PI5CASE-OS/21769633
 * 5v 5a **Power supply** $13 https://www.amazon.com/GeeekPi-Power-Supply-Raspberry-Adapter/dp/B0CQ2DL2RW
 
-### Hotswap Connectors & Controller Folding System $13.93
+### Hotswap Connectors & Controller Folding System $11.89
 
 * **Metal Rods** x2 $4.84 https://www.aliexpress.us/item/3256806550938490.html
-* **Spring loaded contacts** x6 $6 https://www.digikey.com/en/products/detail/preci-dip/0906-2/15815067
+* **Spring loaded contacts** x6 $3.96 https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/0906-2-15-20-75-14-11-0/1147050
 * **Small Magnets** x8 $3.09 https://www.digikey.com/en/products/detail/radial-magnets-inc/9161/15276807
 
 ### Shock Cage $18.98
