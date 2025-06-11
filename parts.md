@@ -30,7 +30,7 @@
 * **Plastic Spool** (for 3d printing) $14 https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Printers/dp/B0D421Q2Q2
 * (Battery from separate highway project)
 
-## Controller $45.39
+## Controller $53.55
 
 * **JH16 Joystick** x2 $10 https://www.aliexpress.com/i/3256808274885275.html
 * **Joystick Cover** x2 (3d printed)
@@ -40,6 +40,7 @@
   * **Spring** x2 $5.21 https://www.aliexpress.us/item/3256808595228122.html
 * **Switch** x2 (Already own)
 * **Rotary Encoder** x2 $4.10 https://www.digikey.com.br/en/products/detail/alps-alpine/EC12E24204A8/18109108
+* **Mini Motor Disc** x2 $8.16 https://www.adafruit.com/product/1201
 * **Capacitive Metal Strip** x4 (aluminum foil should work)
 * **XIAO Microcontroller** x2 $10.80 https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010328/11506471
 * **PCB** x2 $12 (JLCPCB $2 manufacturing, $10 shipping)
