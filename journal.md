@@ -210,4 +210,23 @@ At this point I hit a bit of a mental roadblock. I didn't know where to begin wi
 
 ![Screenshot from 2025-06-09 20-54-37](https://github.com/user-attachments/assets/500114ba-59b0-402c-95f4-b54469468a4e)
 
+## June 10: Finished Connectors!
+
+Log-16: 6 hours modeling
+
+The back portion of the controller connection was finished today. I decided for simplicity to separate the connector pieces into separate parts, and then merge them together when assembling for printing. I also worked further on the rotation mechanism, and added holes for the wire to go through. The datasheet for the current spring loaded contacts I sourced were no where to be found. I found a cheaper model with a datasheet, and appropriately changed the hole depth. Each of the contacts has a through hole which can be soldered on the bottom, so that's my plan.
+
+The next challenge was to figure out the front connection slots. This involved manipulating the back models to work with the front ones. I separated the screw parts (I'll glue the front section), and created a hole for the front pivot connection to slot into. Wooh! What a relief to be done with that part of the design. My next steps will be:
+* Modeling the bar & slot pieces with a spring to provide feedback
+* Designing the shock cage & spring mounts
+* Creating holes for the buttons, joystick, capacitive sensors, and knuckle straps
+
+![Screenshot from 2025-06-10 16-33-11](https://github.com/user-attachments/assets/c2ee1fc2-25ba-4947-b0bf-dad5b06e210c)
+![Screenshot from 2025-06-10 20-31-43](https://github.com/user-attachments/assets/08b61b68-4a9c-4c91-8770-062e77606ce1)
+![Screenshot from 2025-06-10 20-31-58](https://github.com/user-attachments/assets/116a6824-8572-43b1-8f07-140af26c9feb)
+![Screenshot from 2025-06-10 20-32-24](https://github.com/user-attachments/assets/1a88eec3-cedf-4041-a37f-e8a43c38835c)
+
+
+
+
 
