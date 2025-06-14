@@ -226,7 +226,11 @@ The next challenge was to figure out the front connection slots. This involved m
 ![Screenshot from 2025-06-10 20-31-58](https://github.com/user-attachments/assets/116a6824-8572-43b1-8f07-140af26c9feb)
 ![Screenshot from 2025-06-10 20-32-24](https://github.com/user-attachments/assets/1a88eec3-cedf-4041-a37f-e8a43c38835c)
 
+## June 11-13: Pivot Bar Locks
 
+Log-17: 4 hours modeling, 2 hour call session (show & tell)
 
+During the show & tell, I was recommended to switch from using capacitive touch sensors to time of flight distance sensors (like lasers) or other more accurate measurement tooling. From the research I've done, it doesn't seem feasible to get 12 laser sensors, as that'll cost $50. I've been looking more into infrared sensors, which look promising.
 
+I've also created the pivot bar locks, which were not too bad. I spent about 30 minutes on that, while much longer on refining the controller to pivot locking mechanism. I changed it to not be reliant on post-mirror features, allowing my to properly duplicate it on both sides. I also removed the back to front mirror, and instead used a repeater feature that allows me to create a copy in the same orientation, which is what I desired.
 
