@@ -230,7 +230,9 @@ The next challenge was to figure out the front connection slots. This involved m
 
 Log-17: 4 hours modeling, 2 hour call session (show & tell)
 
-During the show & tell, I was recommended to switch from using capacitive touch sensors to time of flight distance sensors (like lasers) or other more accurate measurement tooling. From the research I've done, it doesn't seem feasible to get 12 laser sensors, as that'll cost $50. I've been looking more into infrared sensors, which look promising.
+During the show & tell, I was recommended to switch from using capacitive touch sensors to time of flight distance sensors (like lasers) or other more accurate measurement tooling. From the research I've done, it doesn't seem feasible to get 12 laser sensors, as that'll cost $50. I've been looking more into infrared sensors, which look promising. I found this video comparing ultrasound vs infrared sensors which was quite interesting. https://www.youtube.com/watch?v=HjeKyi5tizc
 
 I've also created the pivot bar locks, which were not too bad. I spent about 30 minutes on that, while much longer on refining the controller to pivot locking mechanism. I changed it to not be reliant on post-mirror features, allowing my to properly duplicate it on both sides. I also removed the back to front mirror, and instead used a repeater feature that allows me to create a copy in the same orientation, which is what I desired.
+
+![Screenshot from 2025-06-13 23-48-53](https://github.com/user-attachments/assets/fbfd89cf-0327-47b5-9fd1-ab8723df4d9d)
 
