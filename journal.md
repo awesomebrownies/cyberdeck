@@ -236,3 +236,22 @@ I've also created the pivot bar locks, which were not too bad. I spent about 30 
 
 ![Screenshot from 2025-06-13 23-48-53](https://github.com/user-attachments/assets/fbfd89cf-0327-47b5-9fd1-ab8723df4d9d)
 
+## June 14: Shock Cage, & Controller Finished
+
+Log-18: 12 hours modeling
+
+All of the core components of the cyberdeck have been created! This is a huge milestone. From here on out, I will only be tweaking the model.
+
+Here's what I did:
+* Refactored controller shape for trigger
+* Trigger Slot & Trigger
+* Controller Stand
+* Joystick and Button Holes
+* Knuckle Strap Paracord Holes
+* Shock Cage Design w/ plenty of holes for extra addons later
+* Spring friction mount holes
+* Raspberry Pi 5 mount ontop of the shock cage
+
+![Screenshot from 2025-06-14 22-23-35](https://github.com/user-attachments/assets/6b9d5edf-2713-44e4-8493-ce59d88200cd)
+![Screenshot from 2025-06-14 22-23-14](https://github.com/user-attachments/assets/4384b39d-1eee-4af5-897c-1c8164cebecc)
+
