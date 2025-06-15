@@ -255,3 +255,8 @@ Here's what I did:
 ![Screenshot from 2025-06-14 22-23-35](https://github.com/user-attachments/assets/6b9d5edf-2713-44e4-8493-ce59d88200cd)
 ![Screenshot from 2025-06-14 22-23-14](https://github.com/user-attachments/assets/4384b39d-1eee-4af5-897c-1c8164cebecc)
 
+## June 15: Pinout Research
+![s-l1600](https://github.com/user-attachments/assets/6581f485-5d1c-457d-a86c-3552d1e2ee42)
+![Screenshot from 2025-06-15 13-44-06](https://github.com/user-attachments/assets/dbb63d45-6741-4082-8f43-44bf6cf21a40)
+
+
