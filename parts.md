@@ -37,13 +37,16 @@
 ($87.99)
 * **JH16 Joystick** x2 $10 https://www.aliexpress.com/i/3256808274885275.html
 * **Analog Hall Effect Trigger** x2
-  * **Hall Effect Sensor** x2 $2.52 https://www.digikey.com/en/products/detail/allegro-microsystems/A1308KUA-1-T/6821585
+  * **Hall Effect Sensor** x2 $2.30 https://www.digikey.com/en/products/detail/allegro-microsystems/A1315LLHLX-5-T/8032467
 * **Switch** x2 (Already own)
 * **Rotary Encoder** x2 $4.10 https://www.digikey.com.br/en/products/detail/alps-alpine/EC12E24204A8/18109108
 * **Mini Motor Disc** x2 $8.16 https://www.adafruit.com/product/1201
 * **Raspberry Pi Pico** x2 $19.16 https://www.adafruit.com/product/5544
 * **PCB** x2 $12 (JLCPCB $2 manufacturing, $10 shipping)
 * **I2C Distance Sensor (VL6180X)** x10 $32.05 https://www.digikey.com/en/products/detail/stmicroelectronics/VL53L4CDV0DH-1/16123783
+* **Op-Amp** x4 https://www.digikey.com.br/en/products/detail/texas-instruments/LMV358IDR/381251
+* **180k Ohm SM Resistor** x4
+* **330k Ohm SM Resistor** x4
 
 ### Knuckle Straps $12
 
