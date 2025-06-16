@@ -256,7 +256,17 @@ Here's what I did:
 ![Screenshot from 2025-06-14 22-23-14](https://github.com/user-attachments/assets/4384b39d-1eee-4af5-897c-1c8164cebecc)
 
 ## June 15: Pinout Research
+
+Log-18: 3 hours battery research, 1 hour KiCad
+
+I've been following the KiCad pcbway tutorial: https://www.pcbway.com/blog/PCB_Design_Tutorial/How_to_make_a_footprint_in_KiCad_.html
+
+So far, I've only made the basic symbol for it, but I plan on finishing the symbol tomorrow. I've also sourced all other controller parts for the build. In this time, I've updated all of the BOM component lists to include more necessary parts for the cyberdeck.
+
+One of the interesting things about battery packs, it's often cheaper to buy premade ones then lithium ion barebone sources. In addition, it makes the cyberdeck battery module flight safe so more wins for portability!
+
 ![s-l1600](https://github.com/user-attachments/assets/6581f485-5d1c-457d-a86c-3552d1e2ee42)
-![Screenshot from 2025-06-15 13-44-06](https://github.com/user-attachments/assets/dbb63d45-6741-4082-8f43-44bf6cf21a40)
+
+![Screenshot from 2025-06-15 22-35-29](https://github.com/user-attachments/assets/d5286eee-951d-408f-acee-ed48c8d7482f)
 
 
