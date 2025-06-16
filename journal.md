@@ -269,4 +269,8 @@ One of the interesting things about battery packs, it's often cheaper to buy pre
 
 ![Screenshot from 2025-06-15 22-35-29](https://github.com/user-attachments/assets/d5286eee-951d-408f-acee-ed48c8d7482f)
 
+## June 16: 0-5v to 0-3.3v analog conversion research
+
+The easiest approach to analog reading is using a voltage divider, but I've read it can not work if too "high impedance" (low current) or "low impedance" (high current). I've been looking through threads, and almost all of them recommend an op-amp. This is a current amplifier that reads from another voltage source. https://forum.pjrc.com/index.php?threads/5v-to-3-3v-analog-translation.37408/
+
 
