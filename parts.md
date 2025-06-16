@@ -1,4 +1,4 @@
-## Main Body $170.84
+## Main Body $188.34
 
 ### Computing $20
 
@@ -21,10 +21,10 @@
 
 * **Mesh** $5 (will pick from local walmart catalogue)
 
-### Other $114.35
+### Other $131.85
 
 * **Toggle Switch** x4 (Already own)
-* **Display** $50 https://www.ebay.com/itm/388256042771
+* **Display** $67.50 https://www.ebay.com/itm/267231078389
 * **Heat Set Inserts** x50 $7.39 https://www.digikey.com/en/products/detail/tri-star-industries-inc/M20X157C/13535373
 * **M2 Screws** $12.99 https://www.amazon.com/DYWISHKEY-Pieces-Stainless-Phillips-Screws/dp/B07W5J4WC9
 * **PETG Plastic Spool** (for 3d printing) $18
