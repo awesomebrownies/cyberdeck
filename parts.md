@@ -1,4 +1,4 @@
-## Main Body $188.34
+## Main Body $196.82
 
 ### Computing $20
 
@@ -21,7 +21,7 @@
 
 * **Mesh** $5 (will pick from local walmart catalogue)
 
-### Other $131.85
+### Other $140.33
 
 * **Toggle Switch** x4 (Already own)
 * **Display** $67.50 https://www.ebay.com/itm/267231078389
@@ -29,6 +29,8 @@
 * **M2 Screws** $12.99 https://www.amazon.com/DYWISHKEY-Pieces-Stainless-Phillips-Screws/dp/B07W5J4WC9
 * **PETG Plastic Spool** (for 3d printing) $18
 * **Battery** $25.97 https://www.amazon.com/INIU-Portable-20000mAh-High-speed-Flashlight/dp/B07YPY31FL
+* **Voltage Regulator** $3.80 https://www.aliexpress.us/item/3256807353505241.html
+* **USB-C PD Negotiator** $4.77 https://www.aliexpress.us/item/3256806276110723.html
 
 ## Controller $99.99
 
