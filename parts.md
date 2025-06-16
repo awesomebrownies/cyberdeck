@@ -1,4 +1,4 @@
-## Main Body $140.87
+## Main Body $170.84
 
 ### Computing $20
 
@@ -10,7 +10,7 @@
 
 * **200mm Metal Rods** x2 $5.46 https://www.aliexpress.us/item/3256806550938490.html
 * **Spring loaded contacts** x6 $3.96 https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/0906-2-15-20-75-14-11-0/1147050
-* **Small Magnets** x8 $3.09 https://www.digikey.com/en/products/detail/radial-magnets-inc/9161/15276807
+* **Small Magnets** x14 $4.42 https://www.digikey.com/en/products/detail/radial-magnets-inc/8193/555328
 
 ### Shock Cage $18.98
 
@@ -21,29 +21,28 @@
 
 * **Mesh** $5 (will pick from local walmart catalogue)
 
-### Other $84.38
+### Other $114.35
 
 * **Toggle Switch** x4 (Already own)
 * **Display** $50 https://www.ebay.com/itm/388256042771
 * **Heat Set Inserts** x50 $7.39 https://www.digikey.com/en/products/detail/tri-star-industries-inc/M20X157C/13535373
 * **M2 Screws** $12.99 https://www.amazon.com/DYWISHKEY-Pieces-Stainless-Phillips-Screws/dp/B07W5J4WC9
-* **Plastic Spool** (for 3d printing) $14 https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Printers/dp/B0D421Q2Q2
-* (Battery from separate highway project)
+* **PETG Plastic Spool** (for 3d printing) $18
+* **Battery** $25.97 https://www.amazon.com/INIU-Portable-20000mAh-High-speed-Flashlight/dp/B07YPY31FL
 
-## Controller $53.55
+## Controller $113.69
 
+($101.69)
 * **JH16 Joystick** x2 $10 https://www.aliexpress.com/i/3256808274885275.html
-* **Joystick Cover** x2 (3d printed)
 * **Analog Hall Effect Trigger** x2 $8.49
   * **Hall Effect Sensor** x2 $2.52 https://www.digikey.com/en/products/detail/allegro-microsystems/A1308KUA-1-T/6821585
-  * **Magnet** x2 $0.76 https://www.digikey.com/en/products/detail/radial-magnets-inc/8193/555328
   * **Spring** x2 $5.21 https://www.aliexpress.us/item/3256808595228122.html
 * **Switch** x2 (Already own)
 * **Rotary Encoder** x2 $4.10 https://www.digikey.com.br/en/products/detail/alps-alpine/EC12E24204A8/18109108
 * **Mini Motor Disc** x2 $8.16 https://www.adafruit.com/product/1201
-* **Capacitive Metal Strip** x4 (aluminum foil should work)
-* **XIAO Microcontroller** x2 $10.80 https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010328/11506471
+* **Raspberry Pi Pico** x2 $19.16 https://www.adafruit.com/product/5544
 * **PCB** x2 $12 (JLCPCB $2 manufacturing, $10 shipping)
+* **I2C Distance Sensor (VL6180X)** x10 $32.05 https://www.digikey.com/en/products/detail/stmicroelectronics/VL53L4CDV0DH-1/16123783
 
 ### Knuckle Straps $12
 
