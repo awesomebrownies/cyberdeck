@@ -30,13 +30,12 @@
 * **PETG Plastic Spool** (for 3d printing) $18
 * **Battery** $25.97 https://www.amazon.com/INIU-Portable-20000mAh-High-speed-Flashlight/dp/B07YPY31FL
 
-## Controller $113.69
+## Controller $99.99
 
-($101.69)
+($87.99)
 * **JH16 Joystick** x2 $10 https://www.aliexpress.com/i/3256808274885275.html
-* **Analog Hall Effect Trigger** x2 $8.49
+* **Analog Hall Effect Trigger** x2
   * **Hall Effect Sensor** x2 $2.52 https://www.digikey.com/en/products/detail/allegro-microsystems/A1308KUA-1-T/6821585
-  * **Spring** x2 $5.21 https://www.aliexpress.us/item/3256808595228122.html
 * **Switch** x2 (Already own)
 * **Rotary Encoder** x2 $4.10 https://www.digikey.com.br/en/products/detail/alps-alpine/EC12E24204A8/18109108
 * **Mini Motor Disc** x2 $8.16 https://www.adafruit.com/product/1201
