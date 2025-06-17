@@ -44,7 +44,7 @@
 * **Raspberry Pi Pico** x2 $19.16 https://www.adafruit.com/product/5544
 * **PCB** x2 $12 (JLCPCB $2 manufacturing, $10 shipping)
 * **I2C Distance Sensor (VL6180X)** x10 $32.05 https://www.digikey.com/en/products/detail/stmicroelectronics/VL53L4CDV0DH-1/16123783
-* **Op-Amp** x4 https://www.digikey.com.br/en/products/detail/texas-instruments/LMV358IDR/381251
+* **Op-Amp** x4 $1.52 https://www.digikey.com.br/en/products/detail/texas-instruments/LMV358IDR/381251
 * **Linear Regulator** x2 $1.36 https://www.digikey.com/en/products/detail/umw/AMS1117-3-3/17635254
 * **180k Ohm SM Resistor** x4
 * **330k Ohm SM Resistor** x4
