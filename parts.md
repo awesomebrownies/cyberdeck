@@ -39,7 +39,7 @@
 * **Analog Hall Effect Trigger** x2
   * **Hall Effect Sensor** x2 $2.30 https://www.digikey.com/en/products/detail/allegro-microsystems/A1315LLHLX-5-T/8032467
 * **Soft Tactile Switch** x4 $1.95 https://www.adafruit.com/product/3101
-* **Rotary Encoder** x2 $4.10 https://www.digikey.com.br/en/products/detail/alps-alpine/EC12E24204A8/18109108
+* **Rotary Encoder** x2 $3.22 https://www.digikey.com/en/products/detail/tt-electronics-bi/EN12-VN20AF20/2408775?gQT=2
 * **Mini Motor Disc** x2 $8.16 https://www.adafruit.com/product/1201
 * **Raspberry Pi Pico** x2 $19.16 https://www.adafruit.com/product/5544
 * **PCB** x2 $12 (JLCPCB $2 manufacturing, $10 shipping)
