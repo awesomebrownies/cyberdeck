@@ -32,13 +32,13 @@
 * **Voltage Regulator** $3.80 https://www.aliexpress.us/item/3256807353505241.html
 * **USB-C PD Negotiator** $4.77 https://www.aliexpress.us/item/3256806276110723.html
 
-## Controller $99.99
+## Controller $104.60
 
-($87.99)
+($92.60)
 * **JH16 Joystick** x2 $10 https://www.aliexpress.com/i/3256808274885275.html
 * **Analog Hall Effect Trigger** x2
   * **Hall Effect Sensor** x2 $2.30 https://www.digikey.com/en/products/detail/allegro-microsystems/A1315LLHLX-5-T/8032467
-* **Switch** x2 (Already own)
+* **Soft Tactile Switch** x4 $1.95 https://www.adafruit.com/product/3101
 * **Rotary Encoder** x2 $4.10 https://www.digikey.com.br/en/products/detail/alps-alpine/EC12E24204A8/18109108
 * **Mini Motor Disc** x2 $8.16 https://www.adafruit.com/product/1201
 * **Raspberry Pi Pico** x2 $19.16 https://www.adafruit.com/product/5544
