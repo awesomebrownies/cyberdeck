@@ -5,6 +5,8 @@ description: "Deck Featuring: Controllers (stenography), shock cage, folding tra
 created_at: "2025-05-18"
 ---
 
+**TOTAL HOURS: 109**
+
 # Stored Journal Logs
 
 All project work is logged within the journal. Minimal changes may stretch multiple days for one log.
