@@ -2,11 +2,14 @@
 
 A portable cyberdeck designed around accessories and working on the move.
 
+***Why?***
+There are many game consoles out there, like the nintendo switch, and the steamdeck. I find the integrated controllers with the screen to be awesome for portability, while lacking in quality compared to standalone controllers. So? I created a high quality controller, connected comfortably to the screen. The cyberdeck in particular, has a interesting feature I wanted to tackle for true portability. **The keyboard.** Unlike a traditional laptop, which requires to be unfolded and set on a surface, the portable cyberdeck can type on the move. Using hand tracking algorithms, it can type different keystrokes, depending on the set distance ones fingers move. The picatinny rails attach to slings further complimenting this approach.
+
 ## Key features
 * **Controllers**
   * 4x Distance Sensors (Hand Tracking): Predictive Steganography & normal typing switch
   * Joystick & Scroll Wheel: Moving cursor, scrolling, zooming & typing
-  * Trigger + Button: Clicks & keybinds
+  * Analog Trigger + Buttons: Clicks & keybinds
 * **Shock Cage**
   * Springs can withstand <0.75m drop, rubber grommets for additional acceleration damping.
 * **Travel Mode**
