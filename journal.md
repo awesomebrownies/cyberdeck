@@ -271,6 +271,27 @@ One of the interesting things about battery packs, it's often cheaper to buy pre
 
 ## June 16: 0-5v to 0-3.3v analog conversion research
 
+Log-19: 4 hours research, 3 hours creating schematic
+
 The easiest approach to analog reading is using a voltage divider, but I've read it can not work if too "high impedance" (low current) or "low impedance" (high current). I've been looking through threads, and almost all of them recommend an op-amp. This is a current amplifier that reads from another voltage source. https://forum.pjrc.com/index.php?threads/5v-to-3-3v-analog-translation.37408/
 
+The main schematic was completed today, tomorrow I'll be finishing up with the PCB portion.
 
+![Screenshot from 2025-06-16 22-19-33](https://github.com/user-attachments/assets/54a0070a-4817-4121-8e7b-645e8f614f4f)
+
+![Screenshot from 2025-06-16 18-21-46](https://github.com/user-attachments/assets/2062cd6a-f5cf-4139-ae1c-cad08a17f2a9)
+
+## June 17: PCB Creation
+
+Log-20: 7 hours creating PCB & editing the schematic in KiCad
+
+There were many difficulties I encountered when creating the PCB. First of all was sourcing components. I had to find good sources for the buttons and the Rotary Encoder. When I had first selected the Rotary Encoder, I must've forgotten I needed a sideways one. It took a long time to find a cheap sideways Rotary Encoder on digikey, and quite a bit of looking through schematic footprints to find the matching one. 
+
+With that complete, it was on to organizing the components inside the editor. I realized I had to go back to the schematic and completely redo portions to include wire pathways inbetween the multiple boards I would need. This took a long time, and I had to think about all of the pins that had to transfer between each board for it to function. I didn't want to have the cost go up, so I also had to connect them all together with small pieces, creating breakaway columns.
+
+![Screenshot from 2025-06-17 16-18-39](https://github.com/user-attachments/assets/46cb89ac-1533-4d31-9d0e-b1b9c202e84a)
+
+![Screenshot from 2025-06-17 19-05-33](https://github.com/user-attachments/assets/18b854d7-bb93-40a4-8e9c-66c0f5e89eec)
+
+
+That's it! From here on out, I'll just be tweaking the repository, and uploading all of the documents I've been working on for the past month!
