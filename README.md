@@ -16,7 +16,40 @@ A portable cyberdeck designed around accessories and working on the move.
   * Used to attach custom gadgets to the device. Ex: Gun sling, or 3d printed mount
 * **Physical Toggle Switches**
   * Toggle power & battery, software modes
- 
+
+## How to Assemble
+
+There are three parts to this.
+* Ordering BOM
+* Fabricating PCB
+* 3d Printing Parts (Check CAD folder)
+* Putting it together
+
+I figure most can get the first three done, but I'll go into detail for putting it together.
+
+### Soldering the controller board
+
+You can *in theory* solder this by hand, but I'd recommend using a **hot plate** to put on the **distance sensors** since they have ***tiny*** pads.
+* Apply solder paste
+* Heat the board on the pad
+
+Next you'll put on the **joystick** and the other **non-SMD components**, including the buttons. A tip for the buttons is to only **solder diagonal pins** (look at the adafruit page video for more details).
+
+Lastly, the Raspberry Pi Pico will go on. You'll want to **solder** on the **female pins** before putting on the board, so if it ever gets fried, or you want to take it off for some reason, it's super easy. Once the female pins have been soldered on the board, you just have to solder the male pins on the Raspberry Pi Pico, and attach it all together!
+
+### Final Steps
+
+From here on out, it's just two things.
+
+1. Flashing firmware
+2. Connecting to the main board
+
+Connecting to the main board consists of the two power cables (+5v AND GND), and the **UART half-duplex** cable. Reference your Raspberry Pi pinout for more details on which pins to connect. It may vary per model, and you may already have some of the pins connected to other components. (This cyberdeck can act as a server when not in use)
+
+To flash the firmware, open up the Arduino IDE, and copy and paste the code from the repository to both picos.
+
+## Showcase
+
 *Controller PCB*
 ![Screenshot from 2025-06-17 19-05-33](https://github.com/user-attachments/assets/8740184a-b96f-4e45-bff1-255faea711cf)
 *Controller Schematic*
