@@ -47,7 +47,9 @@ From here on out, it's just two things.
 Connecting to the main board consists of the two power cables (+5v AND GND), and the **UART half-duplex** cable. Reference your Raspberry Pi pinout for more details on which pins to connect. It may vary per model, and you may already have some of the pins connected to other components. (This cyberdeck can act as a server when not in use)
 
 To flash the firmware, open up the Arduino IDE, and copy and paste the code from the repository to both picos.
- 
+
+## Showcase
+
 *Controller PCB*
 ![Screenshot from 2025-06-17 19-05-33](https://github.com/user-attachments/assets/8740184a-b96f-4e45-bff1-255faea711cf)
 *Controller Schematic*
