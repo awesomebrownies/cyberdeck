@@ -21,8 +21,8 @@ A portable cyberdeck designed around accessories and working on the move.
 ![Screenshot from 2025-06-17 19-05-33](https://github.com/user-attachments/assets/8740184a-b96f-4e45-bff1-255faea711cf)
 *Controller Schematic*
 ![Screenshot from 2025-06-17 19-26-58](https://github.com/user-attachments/assets/3c258b73-d096-48af-bd67-9d11ff454e85)
-*Cyberdeck Overview
+*Cyberdeck Shock Cage* 
 ![Screenshot from 2025-06-17 19-28-15](https://github.com/user-attachments/assets/7286ffef-c5e1-44ff-914b-aecd7f85963c)
-Cyberdeck Shock Cage* 
+*Cyberdeck Overview*
 ![Screenshot from 2025-06-17 19-27-59](https://github.com/user-attachments/assets/55fd7a1e-4ec0-47d6-acad-c81c3e222f0d)
 
