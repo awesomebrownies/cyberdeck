@@ -29,13 +29,6 @@ LOG-01: 3 hours
 
 *Project outline described above*
 
-### Project Step Oversight
-
-PENDING DIRECTIVES:
-* Material draft, price check
-  * ~35% material draft, ~20% price check
-* Central case 3d model construction
-  * 0% completion, Tool: Onshape
  
 ## May 19: Display troubles
 
@@ -61,10 +54,6 @@ In this case, the choice I went with a 10.5 inch touchscreen display at the cost
 LOG-03: 2 hours
 
 I've been brainstorming the attachment mechanism between the main body and the controllers. Here's the plan. I'll have a ball bearing rectangle piece rotate to lock into the controller, which will have magnets. This piece will also have 3 wires routed on it. GND, 3.3v line, and a data line. These will be connected using spring loaded contacts to the wires. Since I'll have extra magnets, there's a good chance the end of the rotatable travel mode will have magnets to lock it into, as vice versa in the opposite mode. This day has been mostly just double checking all of the materials, and doing more indepth price checks. It's most likely I'll finish the rest of it tomorrow.
-
-PENDING DIRECTIVES:
-* Material draft, price check
-  * ~90% material draft, ~60% price check
 
 ## May 22: Project Material Guidelines Finished
 
