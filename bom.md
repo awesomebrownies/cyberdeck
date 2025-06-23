@@ -1,8 +1,8 @@
 # Project Bill of Materials
 
-**Total Cost: $307.47**
+**Total Cost: $311.36**
 
-## Main Body - $194.66
+## Main Body - $198.55
 
 ### Computing - $20.00
 
@@ -33,7 +33,7 @@
 | --------- | -------- | ----- | ------------------------------------------------------------------------------------------------------------------------ | --------------- |
 | Mesh      | 1        | $5.00 | [Walmart](https://www.walmart.com/ip/Polyester-Knit-Diamond-Mesh-Fabric-Black-Sheer-Polyester-63-By-The-Yard/2555999935) | Local catalogue |
 
-### Other Components - $137.26
+### Other Components - $141.15
 
 | Component           | Quantity | Price  | Link                                                                                            | Notes                                        |
 | ------------------- | -------- | ------ | ----------------------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -43,7 +43,7 @@
 | M2 Screws           | 1 set    | $12.99 | [Amazon](https://www.amazon.com/DYWISHKEY-Pieces-Stainless-Phillips-Screws/dp/B07W5J4WC9)       |                                              |
 | PETG Plastic Spool  | 1        | $18.00 | -                                                                                               | For 3D printing, local printer reimbursement |
 | Battery             | 1        | $26.97 | [Amazon](https://www.amazon.com/INIU-Portable-20000mAh-High-speed-Flashlight/dp/B07YPY31FL)     |                                              |
-| Voltage Regulator   | 1        | $1.41  | [AliExpress](https://www.aliexpress.us/item/3256807353505241.html)                              |                                              |
+| Voltage Regulator   | 1        | $5.30  | [Digikey](https://www.digikey.com/en/products/detail/dfrobot/DFR1015/18069278)                  |                                              |
 | USB-C PD Negotiator | 1        | $3.00  | [AliExpress](https://www.aliexpress.us/item/3256806276110723.html)                              |                                              |
 
 ## Controller - $112.81
@@ -79,6 +79,6 @@
 
 | Section    | Cost        |
 | ---------- | ----------- |
-| Main Body  | $194.66     |
+| Main Body  | $198.55     |
 | Controller | $112.81     |
-| **Total**  | **$307.47** |
+| **Total**  | **$311.36** |
