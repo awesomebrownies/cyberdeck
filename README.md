@@ -62,6 +62,13 @@ To flash the firmware, open up the Arduino IDE, and copy and paste the code from
 *Cyberdeck Overview*
 ![Screenshot from 2025-06-17 19-27-59](https://github.com/user-attachments/assets/55fd7a1e-4ec0-47d6-acad-c81c3e222f0d)
 
+## Build
+
+![20250813_133928](https://github.com/user-attachments/assets/54a68240-f36d-4994-bc58-3eef539d8ded)
+![20250719_121929](https://github.com/user-attachments/assets/9f98e035-9722-4145-8a54-4fbb55da86a3)
+
+
+
 
 # Project Bill of Materials
 
