@@ -311,6 +311,8 @@ Another note: the original plan of using the support strucutre with springs won'
 
 I used multiple little cable ties to help secure the extra long cable that powers the screen. The internal battery does a perfect job of powering hte raspberry pi 5 inside, and the cable length for the powering of it is the perfect amount.
 
+Flashing the firmware was a struggle between deciding the safe route of using the raspberry pi os, or trying to boot something similar to debian on the pi. Since it was a Pi however, I opted for the safe route, and I'm sure I can modify the OS to my liking for programming in the future!
+
 ![20250813_133928](https://github.com/user-attachments/assets/cdd141e7-396f-483a-887b-39cb7ef1a482)
 
 
