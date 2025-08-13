@@ -295,6 +295,8 @@ Struggling with the 3d printing, there were **many revisions**. I actually ran o
 
 The larger board did not fit at all, and unfortunately I just didn't have the filament to keep going with that part.
 
+Log-21: 5 hours of 3d print revisions (printed with different support structures for the controllers)
+
 
 ## August 11th
 
