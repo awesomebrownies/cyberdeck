@@ -286,3 +286,31 @@ With that complete, it was on to organizing the components inside the editor. I 
 
 
 That's it! From here on out, I'll just be tweaking the repository, and uploading all of the documents I've been working on for the past month!
+
+## August 6th
+
+Struggling with the 3d printing, there were **many revisions**. I actually ran out of printing filament before I got a revision with the controllers fully fitting. Below is a picture of the best I could do.
+
+![20250719_121929](https://github.com/user-attachments/assets/4831f9a6-6857-43bb-a4f1-9773be19ba57)
+
+The larger board did not fit at all, and unfortunately I just didn't have the filament to keep going with that part.
+
+
+## August 11th
+
+I used the heatset inserts to put together the back plate. I'm glad I used four screws on each side, since PLA is VERY bendy, and otherwise wouldn't have supported anything inside.
+![20250719_113852](https://github.com/user-attachments/assets/be68eb8e-cccd-4544-ac89-9d4de150fc65)
+
+
+
+## August 13th
+
+Just finished up the video demo, everything on the software side is working with the flashed card I put inside the RPI5
+
+Another note: the original plan of using the support strucutre with springs won't work. PLA is too bendy, and I didn't take this into consideration before creating the support structure. I instead opted for putting the items in just as is and praying.
+
+I used multiple little cable ties to help secure the extra long cable that powers the screen. The internal battery does a perfect job of powering hte raspberry pi 5 inside, and the cable length for the powering of it is the perfect amount.
+
+![20250813_133928](https://github.com/user-attachments/assets/cdd141e7-396f-483a-887b-39cb7ef1a482)
+
+
