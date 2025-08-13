@@ -5,7 +5,7 @@ description: "Deck Featuring: Controllers (stenography), shock cage, folding tra
 created_at: "2025-05-18"
 ---
 
-**TOTAL HOURS: 109**
+**TOTAL HOURS: 119.5**
 
 # Stored Journal Logs
 
@@ -303,6 +303,7 @@ Log-21: 5 hours of 3d print revisions (printed with different support structures
 I used the heatset inserts to put together the back plate. I'm glad I used four screws on each side, since PLA is VERY bendy, and otherwise wouldn't have supported anything inside.
 ![20250719_113852](https://github.com/user-attachments/assets/be68eb8e-cccd-4544-ac89-9d4de150fc65)
 
+Log-22: 2 hours of assembly
 
 
 ## August 13th
@@ -316,5 +317,7 @@ I used multiple little cable ties to help secure the extra long cable that power
 Flashing the firmware was a struggle between deciding the safe route of using the raspberry pi os, or trying to boot something similar to debian on the pi. Since it was a Pi however, I opted for the safe route, and I'm sure I can modify the OS to my liking for programming in the future!
 
 ![20250813_133928](https://github.com/user-attachments/assets/cdd141e7-396f-483a-887b-39cb7ef1a482)
+
+Log-23: 3 hours flashing & software fixing, 0.5 hour of cable assembly (yes it was bad)
 
 
